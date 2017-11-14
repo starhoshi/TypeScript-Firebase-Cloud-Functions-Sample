@@ -4,8 +4,8 @@
 # Cloud Functions
 # node_modules
 node_modules
-functions/.runtimeconfig.json
-functions/firebase-debug.log
+.runtimeconfig.json
+firebase-debug.log
 
 # secret
 .firebaserc
