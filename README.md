@@ -1,2 +1,2 @@
-# TypeScript-Firebase-Cloud-Functions-Sample
-This is an example Firebase project for using TypeScript with Cloud Functions for Firebase
+# TypeScript Firebase Cloud Functions Sample
+This is an example Firebase Cloud Functions written in TypeScript.
